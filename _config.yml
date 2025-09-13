@@ -1,0 +1,6 @@
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme 
+
+title: [urban-telegram]
+description: [A small blog made by synctx to talk about stuff]
